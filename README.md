@@ -100,6 +100,7 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 
 ### 🧠🕸️ [SmartScrapper](https://github.com/Gowtham-gangster/SmartScrapper)
 SmartScraper is a Java-based web scraping platform that automates data extraction from static and dynamic websites using Selenium and JSoup. Built with Spring Boot and Puppeteer, it supports real-time scraping and multi-website data collection.
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
