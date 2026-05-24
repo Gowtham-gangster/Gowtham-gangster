@@ -10,7 +10,9 @@
 
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif" width="40px">
 
-### Pusuloori Gowtham
+# Pusuloori Gowtham
+
+### Aspiring Java Full Stack Developer | AI & Automation Enthusiast
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Java+Full+Stack+Developer;AI+%26+Automation+Enthusiast;Pro[...]
