@@ -8,8 +8,7 @@
 <!-- Animated Header with Wave -->
 <div align="center">
 
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif" width="40px">
-
+# Hey there! 👋😊
 # Pusuloori Gowtham
 
 ### Aspiring Java Full Stack Developer | AI & Automation Enthusiast
