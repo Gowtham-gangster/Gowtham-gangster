@@ -137,6 +137,6 @@ Mask-Aware Person Identification System is a machine learning-based CCTV surveil
 
 ---
 
-<sub>⭐ If you find my projects useful, consider giving them a star! It motivates me to create more amazing content. 💪</sub>
+⭐ If you find my projects useful, consider giving them a star! It motivates me to create more amazing content. 💪
 
 </div>
