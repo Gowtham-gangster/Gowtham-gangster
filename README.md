@@ -30,8 +30,8 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 - 🎓 **Philosophy**: Code with purpose, learn with persistence
 
 **Follow me for tech insights & journey updates:**
-- 📸 [Instagram](https://www.instagram.com/_gang_star_gowtham_?igsh=cmlucWtpZ3djc3I3) (180 Followers)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pusuloorigowtham7505/)
+- 📸 [Instagram](https://www.instagram.com/_gang_star_gowtham_?igsh=cmlucWtpZ3djc3I3) (180 Followers)
 
 ---
 
@@ -129,9 +129,9 @@ Mask-Aware Person Identification System is a machine learning-based CCTV surveil
 
 <div align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gang_star_gowtham_?igsh=cmlucWtpZ3djc3I3)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pusuloorigowtham7505/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowtham-gangster)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gang_star_gowtham_?igsh=cmlucWtpZ3djc3I3)
 
 **Let's collaborate, innovate, and build amazing things together! Feel free to reach out.** 🚀
 
