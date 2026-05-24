@@ -13,7 +13,7 @@
 ### Pusuloori Gowtham
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Java+Full+Stack+Developer;AI+%26+Automation+Enthusiast;Problem+Solver+%7C+Code+Crafted+with+Passion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Java+Full+Stack+Developer;AI+%26+Automation+Enthusiast;Pro[...]
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Fresher Developer** with a passion for building robust Java applications and exploring the intersection of **AI and Automation**. I love writing clean, efficient code and continuously learning new technologies. 🚀
+I'm a **Fresher Developer** with a passion for building robust Java applications and exploring the intersection of **AI and Automation**. I love writing clean, efficient code and continuously learning[...]
 
 - 🎯 **Building**: Full-stack Java applications with Spring Boot
 - 🤖 **Exploring**: AI automation and intelligent systems
@@ -46,9 +46,11 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ### Database
@@ -70,7 +72,7 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 <div align="center">
 
 <!-- GitHub Stats Card -->
-[![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-gangster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Gowtham-gangster)
+[![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-gangster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Gowtham-ga[...]
 
 <!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gowtham-gangster&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
