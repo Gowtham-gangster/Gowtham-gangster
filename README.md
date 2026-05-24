@@ -73,7 +73,13 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 <div align="center">
 
 <!-- GitHub Stats Card -->
+[![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-gangster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Gowtham-gangster)
 
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gowtham-gangster&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Top Languages Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-gangster&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gowtham-gangster)
 
 </div>
 
@@ -93,20 +99,20 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 
 <div align="center">
 
-### 🔧 [SmartScrapper](https://github.com/Gowtham-gangster/SmartScrapper)
+### 🧠🕸️ [SmartScrapper](https://github.com/Gowtham-gangster/SmartScrapper)
 A Java-based web scraping utility for intelligent data extraction and automation.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ---
 
-### 🌐 [WebReminder](https://github.com/Gowtham-gangster/WebReminder)
+### 💊⏰ [WebReminder](https://github.com/Gowtham-gangster/WebReminder)
 A TypeScript-based web application for managing reminders and tasks. [🔗 Live Demo](https://gowtham-nine.vercel.app)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
-### 🖼️ [Image-Processing](https://github.com/Gowtham-gangster/Image-Processing)
+### 🖼️📹 [Image-Processing](https://github.com/Gowtham-gangster/Image-Processing)
 A Python mini project for image processing and manipulation. [🔗 Live Demo](https://image-processing-one.vercel.app)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
