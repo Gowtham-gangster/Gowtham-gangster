@@ -101,13 +101,14 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 ### 🧠🕸️ [SmartScrapper](https://github.com/Gowtham-gangster/SmartScrapper)
 SmartScraper is a Java-based web scraping platform that automates data extraction from static and dynamic websites using Selenium and JSoup. Built with Spring Boot and Puppeteer, it supports real-time scraping and multi-website data collection.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ---
 
 ### 💊⏰ [MedReminder](https://github.com/Gowtham-gangster/WebReminder)
 Medicine Reminder is a smart healthcare application that helps users schedule and manage medicine intake with timely notifications and reminders. It improves medication tracking and ensures users never miss their prescribed doses.[🔗 Live Demo](https://gowtham-nine.vercel.app)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -115,6 +116,7 @@ Medicine Reminder is a smart healthcare application that helps users schedule an
 
 ### 🖼️📹 [Mask-Aware Person Identification System](https://github.com/Gowtham-gangster/Image-Processing)
 Mask-Aware Person Identification System is a machine learning-based CCTV surveillance solution that identifies individuals even when wearing face masks. It enhances public security by combining facial recognition and intelligent monitoring techniques.[🔗 Live Demo](https://image-processing-one.vercel.app)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
