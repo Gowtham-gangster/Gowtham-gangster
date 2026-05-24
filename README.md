@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Fresher Developer** with a passion for building robust Java applications and exploring the intersection of **AI and Automation**. I love writing clean, efficient code and continuously learning[...]
+I'm a **Fresher Developer** with a passion for building robust Java applications and exploring the intersection of **AI and Automation**. I love writing clean, efficient code and continuously lear[...]
 
 - 🎯 **Building**: Full-stack Java applications with Spring Boot
 - 🤖 **Exploring**: AI automation and intelligent systems
@@ -89,6 +89,33 @@ I'm a **Fresher Developer** with a passion for building robust Java applications
 <div align="center">
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Gowtham-gangster&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📁 My Repositories
+
+<div align="center">
+
+### 🔧 [SmartScrapper](https://github.com/Gowtham-gangster/SmartScrapper)
+A Java-based web scraping utility for intelligent data extraction and automation.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+---
+
+### 🌐 [WebReminder](https://github.com/Gowtham-gangster/WebReminder)
+A TypeScript-based web application for managing reminders and tasks. [🔗 Live Demo](https://gowtham-nine.vercel.app)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+### 🖼️ [Image-Processing](https://github.com/Gowtham-gangster/Image-Processing)
+A Python mini project for image processing and manipulation. [🔗 Live Demo](https://image-processing-one.vercel.app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
 
 </div>
 
