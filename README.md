@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Fresher Developer** with a passion for building robust Java applications and exploring the intersection of **AI and Automation**. I love writing clean, efficient code and continuously lear[...]
+I'm a **Fresher Developer** passionate about building scalable Java applications and exploring Automation technologies. I enjoy solving real-world problems through clean code, continuous learning, and innovative project development.
 
 - 🎯 **Building**: Full-stack Java applications with Spring Boot
 - 🤖 **Exploring**: AI automation and intelligent systems
