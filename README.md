@@ -115,7 +115,7 @@ Medicine Reminder is a smart healthcare application that helps users schedule an
 ---
 
 ### 🖼️📹 [Mask-Aware Person Identification System](https://github.com/Gowtham-gangster/Image-Processing)
-Mask-Aware Person Identification System is a machine learning-based CCTV surveillance solution that identifies individuals even when wearing face masks. It enhances public security by combining facial recognition and intelligent monitoring techniques.[🔗 Live Demo](https://image-processing-one.vercel.app)
+Mask-Aware Person Identification System is a machine learning-based CCTV surveillance solution that identifies individuals even when wearing face masks. It enhances public security by combining facial recognition and intelligent monitoring techniques.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
