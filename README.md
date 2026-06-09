@@ -67,33 +67,6 @@ I'm a **Fresher Developer** passionate about building scalable Java applications
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-[![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-gangster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Gowtham-gangster)
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gowtham-gangster&theme=tokyonight&hide_border=true)](https://github.com/Gowtham-gangster)
-
-<!-- Top Languages Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-gangster&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gowtham-gangster)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Gowtham-gangster&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📁 My Repositories
 
 <div align="center">
