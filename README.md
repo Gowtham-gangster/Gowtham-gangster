@@ -87,6 +87,16 @@ Medicine Reminder is a smart healthcare application that helps users schedule an
 
 ---
 
+### 🎤🤖 [Interview Trainer Agent](https://github.com/Gowtham-gangster/Interview-Trainer)
+Interview Trainer Agent is an AI-powered multi-agent interview preparation platform. It provides resume analysis, technical interview preparation, HR coaching, soft skills training, voice-based mock interviews, answer evaluation, and personalized readiness assessments through a coordinated network of specialized AI agents.[🔗 Live Demo](https://interview-trainer-tau.vercel.app)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![IBM Watsonx](https://img.shields.io/badge/IBM_Watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+---
+
 ### 🖼️📹 [Mask-Aware Person Identification System](https://github.com/Gowtham-gangster/Image-Processing)
 Mask-Aware Person Identification System is a machine learning-based CCTV surveillance solution that identifies individuals even when wearing face masks. It enhances public security by combining facial recognition and intelligent monitoring techniques.[🔗 Live Demo](https://image-processing-mu-two.vercel.app/)
 
